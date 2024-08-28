@@ -19,7 +19,7 @@ This project is a 2D platformer game developed using the Unity engine. The game 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-  git clone https://github.com/yourusername/your-repo-name.git
+  git clone https://github.com/SandaruCooray/2D-GameUnity-MYS.git
 2. Open the project in Unity:
   Ensure you have Unity installed.
   Open Unity Hub, click on "Open," and navigate to the folder where you cloned the repository.
